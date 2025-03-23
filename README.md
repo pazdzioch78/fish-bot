@@ -78,7 +78,7 @@ This bot is designed to save you time and streamline your gameplay—so you can 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/livexords-nw/fishingfrenzy-bot.git
+   git clone https://github.com/pazdzioch78/fish-bot.git
    ```
 
 2. **Navigate to the Project Folder**
