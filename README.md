@@ -84,7 +84,7 @@ This bot is designed to save you time and streamline your gameplay—so you can 
 2. **Navigate to the Project Folder**
 
    ```bash
-   cd fishingfrenzy-bot
+   cd fish-bot
    ```
 
 3. **Install Dependencies**
